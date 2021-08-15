@@ -1,2 +1,2 @@
-# Terminal2
+# Terminal
 Created with CodeSandbox
